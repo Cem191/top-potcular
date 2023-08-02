@@ -15,25 +15,7 @@ Gelişme Olursa Düzenlencek Bol Bol Ekran Görüntüsü Gelicek Sorunlarınız 
 
 
 
-![STG](STG.png)
-
-
-![transsly mabim](transslymabim.png)
-
-
-
-
-
-![calıntı bot ve kendileri](calıntıbotvekendileri.png)
-
-![acar bot](acarbot.png)
-
-![SASASASA komutlar](SASASASAkomutlar.png)
-
-![SASASASA komutlar](SASASASAkomutlar.png)
-
-
-
+Ekran Görüntüleri Repo'Da Vardır Girip Bakabilirsiniz.
 
 
 
