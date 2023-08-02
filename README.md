@@ -12,3 +12,30 @@ En önemlisi ise artık bir vizyon sahibi olmaya Calışın :D
 Önemli Hedeflerim!
 Gelişme Olursa Düzenlencek Bol Bol Ekran Görüntüsü Gelicek Sorunlarınız Ve Sorunlar İcinde mountain902 Yazabilirsiniz 
 
+
+
+1 Striga
+![STG](STG.png)
+
+2 Transsly
+![transsly mabim](transsly mabim.png)
+
+
+
+
+CALINTI BOTLARI VE ONLAR
+
+![calıntı bot ve kendileri](calıntı bot ve kendileri.png)
+
+![acar bot](acar bot.png)
+
+![SASASASA komutlar](SASASASA komutlar.png)
+
+![SASASASA komutlar](SASASASA komutlar.png)
+
+
+
+
+
+
+
