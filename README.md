@@ -14,24 +14,23 @@ Gelişme Olursa Düzenlencek Bol Bol Ekran Görüntüsü Gelicek Sorunlarınız 
 
 
 
-1 Striga
+
 ![STG](STG.png)
 
-2 Transsly
-![transsly mabim](transsly mabim.png)
+
+![transsly mabim](transslymabim.png)
 
 
 
 
-CALINTI BOTLARI VE ONLAR
 
-![calıntı bot ve kendileri](calıntı bot ve kendileri.png)
+![calıntı bot ve kendileri](calıntıbotvekendileri.png)
 
-![acar bot](acar bot.png)
+![acar bot](acarbot.png)
 
-![SASASASA komutlar](SASASASA komutlar.png)
+![SASASASA komutlar](SASASASAkomutlar.png)
 
-![SASASASA komutlar](SASASASA komutlar.png)
+![SASASASA komutlar](SASASASAkomutlar.png)
 
 
 
